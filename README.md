@@ -48,3 +48,4 @@ Configured in the `Product` constructor:
 
 ## Example Output
 
+![idea64_tUiRuNt626](https://github.com/user-attachments/assets/55488cfa-d480-4867-ade8-3b52727001df)
