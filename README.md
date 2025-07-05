@@ -7,10 +7,7 @@ A simple Java console-based shopping cart system that simulates a small product 
 - [Features](#features)  
 - [Product Types](#product-types)  
 - [How Checkout Works](#how-checkout-works)  
-- [Example Output](#example-output)  
-- [Project Structure](#project-structure)  
-- [Getting Started](#getting-started)  
-- [License](#license)  
+- [Example Output](#example-output)   
 
 ## Features
 
