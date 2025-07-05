@@ -63,8 +63,8 @@ public class Cart {
         System.out.println("** Checkout receipt **");
         for (Map.Entry<Product, Integer> entry : cartItems.entrySet()) {
             Product p = entry.getKey();
-            int qty = entry.getValue();
-            System.out.printf("%dx %-12s %6.2f%n", qty, p.getProductName(), p.getProductPrice() * qty);
+            int quantity = entry.getValue();
+            System.out.printf("%dx %-12s %6.2f%n", quantity, p.getProductName(), p.getProductPrice() * quantity);
         }
         System.out.println("-----------------------------");
         System.out.printf("Subtotal:       %.2f%n", subtotal);
